@@ -75,14 +75,11 @@ Prayer times, Quran recitations, and the Hijri calendar for a Muslim community o
 
 <br />
 
-`— DEPARTMENT IV · THE YEAR IN INK`
-
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=trippixn963&show_icons=true&hide_border=true&bg_color=0A0A0A&title_color=ED3A30&text_color=E9E6DF&icon_color=ED3A30&ring_color=ED3A30" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trippixn963&layout=compact&hide_border=true&bg_color=0A0A0A&title_color=ED3A30&text_color=E9E6DF" alt="Top languages" />
+![The Year in Ink — 3,447 contributions, 216 active days, heaviest day 150 commits](./assets/year-in-ink.png)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=trippixn963&hide_border=true&background=0A0A0A&stroke=1F1F1F&ring=ED3A30&fire=ED3A30&currStreakLabel=ED3A30&sideLabels=E9E6DF&currStreakNum=E9E6DF&sideNums=E9E6DF&dates=7E786C&titleColor=ED3A30" alt="Streak" width="500" />
+<sub>Live activity in the contribution graph below.</sub>
 
 </div>
 
