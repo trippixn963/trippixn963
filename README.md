@@ -1,73 +1,120 @@
 <div align="center">
 
-![The Trippixn Journal — John Hamwi, an engineer's quarterly](./assets/banner.png)
+![Trippixn — Software Engineer](./assets/banner.png)
 
 <br />
 
-![Community](https://img.shields.io/badge/Community-9%2C000%2B-ED3A30?style=for-the-badge&labelColor=0A0A0A)
+![Software Engineer](https://img.shields.io/badge/Software_Engineer-201F1D?style=for-the-badge&labelColor=201F1D)
 &nbsp;
-![Bots Shipped](https://img.shields.io/badge/Bots%20Shipped-2-ED3A30?style=for-the-badge&labelColor=0A0A0A)
+![Boston](https://img.shields.io/badge/Boston-201F1D?style=for-the-badge&labelColor=201F1D)
 &nbsp;
-![Edition](https://img.shields.io/badge/Edition-Summer%202026-ED3A30?style=for-the-badge&labelColor=0A0A0A)
+![Est. 2001](https://img.shields.io/badge/Est.-2001-201F1D?style=for-the-badge&labelColor=201F1D)
 
 </div>
 
 <br />
 
-`— DEPARTMENT I · THE EDITOR`
-
 ### Hey, I'm John.
 
-I build software that communities actually *live in*. Robotics and QA automation by day; Discord bots serving thousands by night. Born in **Latakia, Syria** — engineering my way from **Boston** toward **Cupertino**, one commit at a time.
+I build software people live in. Robotics at **Symbotic** and QA automation at
+**Apple** before it; Discord bots for a community of 10,000+ at night. Came from
+**Latakia**, by way of **Cupertino**, to **Boston**.
 
-Most nights you'll find me at the desk shipping features for **[discord.gg/syria](https://discord.gg/syria)** — a server with 9,000+ neighbors.
-
-<br />
-
-`— DEPARTMENT II · THE STACK`
-
-![Python](https://img.shields.io/badge/Python-0A0A0A?style=for-the-badge&logo=python&logoColor=E9E6DF)
-![TypeScript](https://img.shields.io/badge/TypeScript-0A0A0A?style=for-the-badge&logo=typescript&logoColor=E9E6DF)
-![discord.py](https://img.shields.io/badge/discord.py-0A0A0A?style=for-the-badge&logo=discord&logoColor=E9E6DF)
-![React](https://img.shields.io/badge/React-0A0A0A?style=for-the-badge&logo=react&logoColor=E9E6DF)
-![Vite](https://img.shields.io/badge/Vite-0A0A0A?style=for-the-badge&logo=vite&logoColor=E9E6DF)
-![SQLite](https://img.shields.io/badge/SQLite-0A0A0A?style=for-the-badge&logo=sqlite&logoColor=E9E6DF)
-![Nginx](https://img.shields.io/badge/Nginx-0A0A0A?style=for-the-badge&logo=nginx&logoColor=E9E6DF)
-![Linux](https://img.shields.io/badge/Linux-0A0A0A?style=for-the-badge&logo=linux&logoColor=E9E6DF)
+Most nights I'm at the desk shipping for **[discord.gg/syria](https://discord.gg/syria)**.
 
 <br />
 
-`— DEPARTMENT III · FIELD WORK`
+**Stack**
+
+![Python](https://img.shields.io/badge/Python-201F1D?style=for-the-badge&logo=python&logoColor=EDE9E2)
+![TypeScript](https://img.shields.io/badge/TypeScript-201F1D?style=for-the-badge&logo=typescript&logoColor=EDE9E2)
+![React](https://img.shields.io/badge/React-201F1D?style=for-the-badge&logo=react&logoColor=EDE9E2)
+![discord.py](https://img.shields.io/badge/discord.py-201F1D?style=for-the-badge&logo=discord&logoColor=EDE9E2)
+![Vite](https://img.shields.io/badge/Vite-201F1D?style=for-the-badge&logo=vite&logoColor=EDE9E2)
+![SQLite](https://img.shields.io/badge/SQLite-201F1D?style=for-the-badge&logo=sqlite&logoColor=EDE9E2)
+![Nginx](https://img.shields.io/badge/Nginx-201F1D?style=for-the-badge&logo=nginx&logoColor=EDE9E2)
+![Linux](https://img.shields.io/badge/Linux-201F1D?style=for-the-badge&logo=linux&logoColor=EDE9E2)
+
+<br />
+
+**Work**
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-**`No. 01 — Discord Community Bot`**
+### Syria
 
-### SyriaBot
+The engine behind **discord.gg/syria** — moderation, leveling, an economy, a
+casino, tickets and automod, keeping a community of 10,000+ in order. Python,
+running 24/7.
 
-The engine behind **discord.gg/syria** — moderation, leveling, an economy, automod, and a dozen live systems keeping 9,000+ members in order. Python, running 24/7.
+<sub>Python · discord.py · SQLite · source private</sub>
 
-![Python](https://img.shields.io/badge/-Python-0A0A0A?style=flat-square&logo=python&logoColor=E9E6DF)
-![discord.py](https://img.shields.io/badge/-discord.py-0A0A0A?style=flat-square&logo=discord&logoColor=E9E6DF)
-![SQLite](https://img.shields.io/badge/-SQLite-0A0A0A?style=flat-square&logo=sqlite&logoColor=E9E6DF)
-
-[**› Read the source preview**](https://github.com/trippixn963/SyriaBot-Preview)
+[**› trippixn.com/syria**](https://trippixn.com/syria)
 
 </td>
 <td width="50%" valign="top">
 
-**`No. 02 — Prayer & Devotion Bot`**
+### Taha
 
-### TahaBot
+Prayer times, Quran recitations and the Hijri calendar for the Muslims in the
+room — one source of truth, delivered every day.
 
-Prayer times, Quran recitations, and the Hijri calendar for a Muslim community of **2,800+** — a single source of truth, delivered automatically every day.
+<sub>Python · discord.py · source private</sub>
 
-![Python](https://img.shields.io/badge/-Python-0A0A0A?style=flat-square&logo=python&logoColor=E9E6DF)
-![SQLite](https://img.shields.io/badge/-SQLite-0A0A0A?style=flat-square&logo=sqlite&logoColor=E9E6DF)
+[**› trippixn.com**](https://trippixn.com)
 
-*In production · source private*
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Mazaj
+
+A 24/7 Arabic lo-fi station living in one voice channel, with the page that
+describes it.
+
+<sub>Python · Lavalink · React</sub>
+
+[**› Preview**](https://github.com/trippixn963/MazajPreview) · [**Live**](https://trippixn.com/Mazaj)
+
+</td>
+<td width="50%" valign="top">
+
+### Window
+
+A cabin window whose shade drags the page from day into night, over the real
+sun above Boston.
+
+<sub>React · TypeScript · CSS</sub>
+
+[**› Preview**](https://github.com/trippixn963/WindowPreview) · [**Live**](https://trippixn.com/window)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### PSNP++
+
+Two-way sync for PSNP+ game lists, across every device. A userscript plus a
+sync service you host yourself.
+
+<sub>JavaScript · Tampermonkey · FastAPI · SQLite</sub>
+
+[**› Source**](https://github.com/trippixn963/PSNPPlusPlus) · [**Live**](https://trippixn.com/psnppp)
+
+</td>
+<td width="50%" valign="top">
+
+### The rest
+
+More of the work, and how it's put together, lives on the site.
+
+<br />
+
+[**› trippixn.com**](https://trippixn.com)
 
 </td>
 </tr>
@@ -77,24 +124,20 @@ Prayer times, Quran recitations, and the Hijri calendar for a Muslim community o
 
 <div align="center">
 
-![The Year in Ink — 3,447 contributions, 216 active days, heaviest day 150 commits](./assets/year-in-ink.png)
-
-<sub>Live activity in the contribution graph below.</sub>
+![A year in ink — 2,947 contributions, 217 active days, heaviest day 84 commits](./assets/year-in-ink.png)
 
 </div>
 
 <br />
 
-`— CORRESPONDENCE`
-
 <div align="center">
 
-[![Read the Journal](https://img.shields.io/badge/Read%20the%20Journal-trippixn.com-ED3A30?style=for-the-badge&labelColor=0A0A0A)](https://trippixn.com)
+[![trippixn.com](https://img.shields.io/badge/trippixn.com-D29C6E?style=for-the-badge&labelColor=201F1D)](https://trippixn.com)
 &nbsp;
-[![Join the Server](https://img.shields.io/badge/Join%20the%20Server-discord.gg%2Fsyria-ED3A30?style=for-the-badge&labelColor=0A0A0A&logo=discord&logoColor=E9E6DF)](https://discord.gg/syria)
+[![discord.gg/syria](https://img.shields.io/badge/discord.gg%2Fsyria-201F1D?style=for-the-badge&logo=discord&logoColor=EDE9E2)](https://discord.gg/syria)
 
 <br /><br />
 
-<sub>THE TRIPPIXN JOURNAL · EDITION OF ONE · <em>less talk, more code.</em></sub>
+<sub><em>Less talk, more code.</em></sub>
 
 </div>
