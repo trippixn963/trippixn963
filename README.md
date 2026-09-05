@@ -124,14 +124,6 @@ More of the work, and how it's put together, lives on the site.
 
 <div align="center">
 
-![A year in ink — 2,947 contributions, 217 active days, heaviest day 84 commits](./assets/year-in-ink.png)
-
-</div>
-
-<br />
-
-<div align="center">
-
 [![trippixn.com](https://img.shields.io/badge/trippixn.com-D29C6E?style=for-the-badge&labelColor=201F1D)](https://trippixn.com)
 &nbsp;
 [![discord.gg/syria](https://img.shields.io/badge/discord.gg%2Fsyria-201F1D?style=for-the-badge&logo=discord&logoColor=EDE9E2)](https://discord.gg/syria)
